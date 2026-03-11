@@ -5,12 +5,13 @@ Name: Tekila-Tecash
 it is raw/unprocessed facts that are collected,recorded and can be used
 
 ##Explain the difference between:
-###Stracture Data;
-has predefined data mode(schema) eg;Name,Age,etc. 
+###Stracture Data;  
+has predefined data mode(schema) eg;Name,Age,etc.   
+
 ###Unstractured Data;
 lacks predefined format eg;Audio,Video,etc. 
 
-##What is a Schema
+##What is a Schema   
 A framework or blueprint for organizing information
 it is a systematic way of determining on how data is organized and interprated in a system
 
