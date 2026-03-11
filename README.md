@@ -2,7 +2,7 @@
 Name: Tekila-Tecash
 
 ## What is Data?
-it is raw/unprocessed facts that are collected,recorded and can be used*
+*it is raw/unprocessed facts that are collected,recorded and can be used*
 
 ## Explain the difference between:
 
@@ -53,7 +53,7 @@ city = "Nairobi"
 
 student={
 
-"namee":"john",
+"name":"john",
 
 "age":21, 
 
