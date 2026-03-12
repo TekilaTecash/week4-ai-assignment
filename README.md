@@ -20,6 +20,7 @@ Name: Tekila-Tecash
 ## Write apython program that print the following message:
 
 **Hello AI Students**
+
 *print("hello ai students")*
 
 ## Creat the following variables in python:
@@ -69,7 +70,8 @@ Print the student name
 
 **A dictionary**
 
-*list are used to store multiple data while Dictionary is an object*
+*list is used to store multiple types of data while Dictionary is an object/ source of reference 
+        where value is referred by a particular key*
 
 
 
